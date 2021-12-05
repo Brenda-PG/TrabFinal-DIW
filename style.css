@@ -1,0 +1,80 @@
+.barra {
+    background-color: #0d0e0f;
+}
+
+body {
+    background-color:  rgb(68, 65, 65);
+}
+
+.logo p{
+    display:inline;
+    position: absolute;
+    vertical-align: middle;
+    font-size: 30px;
+    margin: 5px;
+}
+
+#colunaInfo {
+    text-align: center;
+    text-decoration: none;
+    color: #0d0e0f;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#colunaInfo a {
+    text-decoration: underline cyan;
+}
+
+#colunaInfo p {
+    color: #0d0e0f;
+    font-size: 30px;
+    margin: 0px;
+    color: cyan;
+}
+
+#colunaInfo h1 {
+    font-size: 23px;
+    color: rgb(14, 167, 167);
+}
+
+#colunaRepositorio {
+    color: #0d0e0f;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#colunaRepositorio h1{
+    font-size: 35px;
+    color: white;
+}
+
+#colunaRepositorio h2{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 28px;
+    color: rgb(49, 253, 141);
+}
+
+#colunaRepositorio a{
+    text-decoration: underline rgb(22, 151, 80);
+}
+
+#colunaRepositorio p{
+    margin-bottom: 0px;
+    color: white;
+}
+
+#foto {
+    border-radius: 70%;  
+}
+
+footer{
+    padding: 10px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+

@@ -1,0 +1,30 @@
+.barra {
+    background-color: #0d0e0f;
+}
+
+body {
+    background-color: rgb(68, 65, 65);
+    color: white;
+}
+
+.logo p{
+    display:inline;
+    position: absolute;
+    vertical-align: middle;
+    font-size: 30px;
+    margin: 5px;
+}
+
+.resultado {
+    border: solid black 1px
+}
+
+.link {
+    word-wrap: break-word;
+}
+
+.naoEncontrado {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
